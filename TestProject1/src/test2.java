@@ -14,7 +14,7 @@ public class test2 {
 		System.out.println("a= "+a+"  " +"b= "+b);
 
        //using temporary variable
-	System.out.println("before swapping");
+	    System.out.println("before swapping");
 		System.out.println("a= "+a+"  " +"b= "+b);
 		System.out.println("after swapping");
 		temp=a;
